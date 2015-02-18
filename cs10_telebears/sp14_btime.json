@@ -1,1 +1,1202 @@
-{"live": true, "subtitle": "The Beauty and Joy of Computing", "section_id": 20364, "course_id": 2315, "data": [{"enrolled_percent": 0.0, "date": "10/21/2013-00:00:00", "day": 1, "waitlisted": 0, "enrolled": 0, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.0, "date": "10/22/2013-00:00:00", "day": 2, "waitlisted": 0, "enrolled": 0, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.025, "date": "10/23/2013-00:00:00", "day": 3, "waitlisted": 0, "enrolled": 8, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.069, "date": "10/24/2013-00:00:00", "day": 4, "waitlisted": 0, "enrolled": 22, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.072, "date": "10/25/2013-00:00:00", "day": 5, "waitlisted": 0, "enrolled": 23, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.072, "date": "10/26/2013-00:00:00", "day": 6, "waitlisted": 0, "enrolled": 23, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.081, "date": "10/27/2013-00:00:00", "day": 7, "waitlisted": 0, "enrolled": 26, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.084, "date": "10/28/2013-00:00:00", "day": 8, "waitlisted": 0, "enrolled": 27, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.094, "date": "10/29/2013-00:00:00", "day": 9, "waitlisted": 0, "enrolled": 30, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.094, "date": "10/30/2013-00:00:00", "day": 10, "waitlisted": 0, "enrolled": 30, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.094, "date": "10/31/2013-00:00:00", "day": 11, "waitlisted": 0, "enrolled": 30, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.122, "date": "11/01/2013-00:00:00", "day": 12, "waitlisted": 0, "enrolled": 39, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.122, "date": "11/02/2013-00:00:00", "day": 13, "waitlisted": 0, "enrolled": 39, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.134, "date": "11/03/2013-00:00:00", "day": 14, "waitlisted": 0, "enrolled": 43, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.141, "date": "11/04/2013-00:00:00", "day": 15, "waitlisted": 0, "enrolled": 45, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.209, "date": "11/05/2013-00:00:00", "day": 16, "waitlisted": 0, "enrolled": 67, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.25, "date": "11/06/2013-00:00:00", "day": 17, "waitlisted": 0, "enrolled": 80, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.25, "date": "11/07/2013-00:00:00", "day": 18, "waitlisted": 0, "enrolled": 80, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.297, "date": "11/08/2013-00:00:00", "day": 19, "waitlisted": 0, "enrolled": 95, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.297, "date": "11/09/2013-00:00:00", "day": 20, "waitlisted": 0, "enrolled": 95, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.3, "date": "11/10/2013-00:00:00", "day": 21, "waitlisted": 0, "enrolled": 96, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.3, "date": "11/11/2013-00:00:00", "day": 22, "waitlisted": 0, "enrolled": 96, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.297, "date": "11/12/2013-00:00:00", "day": 23, "waitlisted": 0, "enrolled": 95, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.313, "date": "11/13/2013-00:00:00", "day": 24, "waitlisted": 0, "enrolled": 100, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.313, "date": "11/14/2013-00:00:00", "day": 25, "waitlisted": 0, "enrolled": 100, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.325, "date": "11/15/2013-00:00:00", "day": 26, "waitlisted": 0, "enrolled": 104, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.347, "date": "11/17/2013-00:00:00", "day": 28, "waitlisted": 0, "enrolled": 111, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.359, "date": "11/18/2013-00:00:00", "day": 29, "waitlisted": 0, "enrolled": 115, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.394, "date": "11/19/2013-00:00:00", "day": 30, "waitlisted": 0, "enrolled": 126, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.441, "date": "11/20/2013-00:00:00", "day": 31, "waitlisted": 0, "enrolled": 141, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.503, "date": "11/21/2013-00:00:00", "day": 32, "waitlisted": 0, "enrolled": 161, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.516, "date": "11/22/2013-00:00:00", "day": 33, "waitlisted": 0, "enrolled": 165, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.516, "date": "11/23/2013-00:00:00", "day": 34, "waitlisted": 0, "enrolled": 165, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.519, "date": "11/24/2013-00:00:00", "day": 35, "waitlisted": 0, "enrolled": 166, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.528, "date": "11/25/2013-00:00:00", "day": 36, "waitlisted": 0, "enrolled": 169, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.559, "date": "11/26/2013-00:00:00", "day": 37, "waitlisted": 0, "enrolled": 179, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.609, "date": "11/27/2013-00:00:00", "day": 38, "waitlisted": 0, "enrolled": 195, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.644, "date": "11/28/2013-00:00:00", "day": 39, "waitlisted": 0, "enrolled": 206, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.656, "date": "11/29/2013-00:00:00", "day": 40, "waitlisted": 0, "enrolled": 210, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.656, "date": "11/30/2013-00:00:00", "day": 41, "waitlisted": 0, "enrolled": 210, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.659, "date": "12/01/2013-00:00:00", "day": 42, "waitlisted": 0, "enrolled": 211, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.672, "date": "12/02/2013-00:00:00", "day": 43, "waitlisted": 0, "enrolled": 215, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.713, "date": "12/03/2013-00:00:00", "day": 44, "waitlisted": 0, "enrolled": 228, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.8, "date": "12/04/2013-00:00:00", "day": 45, "waitlisted": 0, "enrolled": 256, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.906, "date": "12/05/2013-00:00:00", "day": 46, "waitlisted": 0, "enrolled": 290, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.912, "date": "12/06/2013-00:00:00", "day": 47, "waitlisted": 0, "enrolled": 292, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.912, "date": "12/07/2013-00:00:00", "day": 48, "waitlisted": 0, "enrolled": 292, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.922, "date": "12/08/2013-00:00:00", "day": 49, "waitlisted": 0, "enrolled": 295, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.919, "date": "12/09/2013-00:00:00", "day": 50, "waitlisted": 0, "enrolled": 294, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.934, "date": "12/10/2013-00:00:00", "day": 51, "waitlisted": 0, "enrolled": 299, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.941, "date": "12/11/2013-00:00:00", "day": 52, "waitlisted": 0, "enrolled": 301, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.944, "date": "12/12/2013-00:00:00", "day": 53, "waitlisted": 0, "enrolled": 302, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.947, "date": "12/13/2013-00:00:00", "day": 54, "waitlisted": 0, "enrolled": 303, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.947, "date": "12/14/2013-00:00:00", "day": 55, "waitlisted": 0, "enrolled": 303, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.944, "date": "12/15/2013-00:00:00", "day": 56, "waitlisted": 0, "enrolled": 302, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.938, "date": "12/16/2013-00:00:00", "day": 57, "waitlisted": 0, "enrolled": 300, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.934, "date": "12/17/2013-00:00:00", "day": 58, "waitlisted": 0, "enrolled": 299, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.938, "date": "12/18/2013-00:00:00", "day": 59, "waitlisted": 0, "enrolled": 300, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.934, "date": "12/19/2013-00:00:00", "day": 60, "waitlisted": 0, "enrolled": 299, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.938, "date": "12/20/2013-00:00:00", "day": 61, "waitlisted": 0, "enrolled": 300, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.938, "date": "12/21/2013-00:00:00", "day": 62, "waitlisted": 0, "enrolled": 300, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.931, "date": "12/22/2013-00:00:00", "day": 63, "waitlisted": 0, "enrolled": 298, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.928, "date": "12/23/2013-00:00:00", "day": 64, "waitlisted": 0, "enrolled": 297, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.928, "date": "12/24/2013-00:00:00", "day": 65, "waitlisted": 0, "enrolled": 297, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.931, "date": "12/25/2013-00:00:00", "day": 66, "waitlisted": 0, "enrolled": 298, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.941, "date": "12/26/2013-00:00:00", "day": 67, "waitlisted": 0, "enrolled": 301, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.941, "date": "12/27/2013-00:00:00", "day": 68, "waitlisted": 0, "enrolled": 301, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.941, "date": "12/28/2013-00:00:00", "day": 69, "waitlisted": 0, "enrolled": 301, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.944, "date": "12/29/2013-00:00:00", "day": 70, "waitlisted": 0, "enrolled": 302, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.956, "date": "12/30/2013-00:00:00", "day": 71, "waitlisted": 0, "enrolled": 306, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.963, "date": "12/31/2013-00:00:00", "day": 72, "waitlisted": 0, "enrolled": 308, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.966, "date": "01/01/2014-00:00:00", "day": 73, "waitlisted": 0, "enrolled": 309, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.969, "date": "01/02/2014-00:00:00", "day": 74, "waitlisted": 0, "enrolled": 310, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.966, "date": "01/03/2014-00:00:00", "day": 75, "waitlisted": 0, "enrolled": 309, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.966, "date": "01/04/2014-00:00:00", "day": 76, "waitlisted": 0, "enrolled": 309, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.966, "date": "01/05/2014-00:00:00", "day": 77, "waitlisted": 0, "enrolled": 309, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.966, "date": "01/06/2014-00:00:00", "day": 78, "waitlisted": 0, "enrolled": 309, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.975, "date": "01/07/2014-00:00:00", "day": 79, "waitlisted": 0, "enrolled": 312, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.975, "date": "01/08/2014-00:00:00", "day": 80, "waitlisted": 1, "enrolled": 312, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.978, "date": "01/09/2014-00:00:00", "day": 81, "waitlisted": 1, "enrolled": 313, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.975, "date": "01/10/2014-00:00:00", "day": 82, "waitlisted": 1, "enrolled": 312, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.975, "date": "01/11/2014-00:00:00", "day": 83, "waitlisted": 1, "enrolled": 312, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.981, "date": "01/12/2014-00:00:00", "day": 84, "waitlisted": 1, "enrolled": 314, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.988, "date": "01/13/2014-00:00:00", "day": 85, "waitlisted": 1, "enrolled": 316, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.997, "date": "01/14/2014-00:00:00", "day": 86, "waitlisted": 0, "enrolled": 319, "waitlisted_percent": 0.0}, {"enrolled_percent": 1.0, "date": "01/15/2014-00:00:00", "day": 87, "waitlisted": 5, "enrolled": 320, "waitlisted_percent": 0.016}, {"enrolled_percent": 0.991, "date": "01/16/2014-00:00:00", "day": 88, "waitlisted": 10, "enrolled": 317, "waitlisted_percent": 0.031}, {"enrolled_percent": 0.981, "date": "01/17/2014-00:00:00", "day": 89, "waitlisted": 14, "enrolled": 314, "waitlisted_percent": 0.044}, {"enrolled_percent": 0.981, "date": "01/18/2014-00:00:00", "day": 90, "waitlisted": 14, "enrolled": 314, "waitlisted_percent": 0.044}, {"enrolled_percent": 0.988, "date": "01/19/2014-00:00:00", "day": 91, "waitlisted": 9, "enrolled": 316, "waitlisted_percent": 0.028}, {"enrolled_percent": 0.991, "date": "01/20/2014-00:00:00", "day": 92, "waitlisted": 11, "enrolled": 317, "waitlisted_percent": 0.034}, {"enrolled_percent": 0.975, "date": "01/21/2014-00:00:00", "day": 93, "waitlisted": 9, "enrolled": 312, "waitlisted_percent": 0.028}, {"enrolled_percent": 0.972, "date": "01/22/2014-00:00:00", "day": 94, "waitlisted": 2, "enrolled": 311, "waitlisted_percent": 0.006}, {"enrolled_percent": 0.978, "date": "01/23/2014-00:00:00", "day": 95, "waitlisted": 1, "enrolled": 313, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.981, "date": "01/24/2014-00:00:00", "day": 96, "waitlisted": 1, "enrolled": 314, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.981, "date": "01/25/2014-00:00:00", "day": 97, "waitlisted": 1, "enrolled": 314, "waitlisted_percent": 0.003}, {"enrolled_percent": 0.975, "date": "01/26/2014-00:00:00", "day": 98, "waitlisted": 0, "enrolled": 312, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.972, "date": "01/27/2014-00:00:00", "day": 99, "waitlisted": 0, "enrolled": 311, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.947, "date": "01/28/2014-00:00:00", "day": 100, "waitlisted": 0, "enrolled": 303, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.922, "date": "01/29/2014-00:00:00", "day": 101, "waitlisted": 0, "enrolled": 295, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.887, "date": "01/30/2014-00:00:00", "day": 102, "waitlisted": 0, "enrolled": 284, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.853, "date": "01/31/2014-00:00:00", "day": 103, "waitlisted": 0, "enrolled": 273, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.853, "date": "02/01/2014-00:00:00", "day": 104, "waitlisted": 0, "enrolled": 273, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.834, "date": "02/02/2014-00:00:00", "day": 105, "waitlisted": 0, "enrolled": 267, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.819, "date": "02/03/2014-00:00:00", "day": 106, "waitlisted": 0, "enrolled": 262, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.806, "date": "02/04/2014-00:00:00", "day": 107, "waitlisted": 0, "enrolled": 258, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.803, "date": "02/05/2014-00:00:00", "day": 108, "waitlisted": 0, "enrolled": 257, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.8, "date": "02/06/2014-00:00:00", "day": 109, "waitlisted": 0, "enrolled": 256, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.791, "date": "02/07/2014-00:00:00", "day": 110, "waitlisted": 0, "enrolled": 253, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.791, "date": "02/08/2014-00:00:00", "day": 111, "waitlisted": 0, "enrolled": 253, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.787, "date": "02/09/2014-00:00:00", "day": 112, "waitlisted": 0, "enrolled": 252, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.787, "date": "02/10/2014-00:00:00", "day": 113, "waitlisted": 0, "enrolled": 252, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.784, "date": "02/11/2014-00:00:00", "day": 114, "waitlisted": 0, "enrolled": 251, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.781, "date": "02/12/2014-00:00:00", "day": 115, "waitlisted": 0, "enrolled": 250, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.778, "date": "02/13/2014-00:00:00", "day": 116, "waitlisted": 0, "enrolled": 249, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.775, "date": "02/14/2014-00:00:00", "day": 117, "waitlisted": 0, "enrolled": 248, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.775, "date": "02/15/2014-00:00:00", "day": 118, "waitlisted": 0, "enrolled": 248, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.775, "date": "02/16/2014-00:00:00", "day": 119, "waitlisted": 0, "enrolled": 248, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.775, "date": "02/17/2014-00:00:00", "day": 120, "waitlisted": 0, "enrolled": 248, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.772, "date": "02/18/2014-00:00:00", "day": 121, "waitlisted": 0, "enrolled": 247, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.769, "date": "02/19/2014-00:00:00", "day": 122, "waitlisted": 0, "enrolled": 246, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.766, "date": "02/20/2014-00:00:00", "day": 123, "waitlisted": 0, "enrolled": 245, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.759, "date": "02/21/2014-00:00:00", "day": 124, "waitlisted": 0, "enrolled": 243, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.759, "date": "02/22/2014-00:00:00", "day": 125, "waitlisted": 0, "enrolled": 243, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "02/23/2014-00:00:00", "day": 126, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "02/24/2014-00:00:00", "day": 127, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "02/25/2014-00:00:00", "day": 128, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "02/26/2014-00:00:00", "day": 129, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "02/27/2014-00:00:00", "day": 130, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "02/28/2014-00:00:00", "day": 131, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/01/2014-00:00:00", "day": 132, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/02/2014-00:00:00", "day": 133, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/03/2014-00:00:00", "day": 134, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/04/2014-00:00:00", "day": 135, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/05/2014-00:00:00", "day": 136, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/06/2014-00:00:00", "day": 137, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/07/2014-00:00:00", "day": 138, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/08/2014-00:00:00", "day": 139, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/09/2014-00:00:00", "day": 140, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/10/2014-00:00:00", "day": 141, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/11/2014-00:00:00", "day": 142, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/12/2014-00:00:00", "day": 143, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/13/2014-00:00:00", "day": 144, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/14/2014-00:00:00", "day": 145, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/15/2014-00:00:00", "day": 146, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/16/2014-00:00:00", "day": 147, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}, {"enrolled_percent": 0.747, "date": "03/17/2014-00:00:00", "day": 148, "waitlisted": 0, "enrolled": 239, "waitlisted_percent": 0.0}], "waitlisted_scale_max": 352, "instructor": "GARCIA, D D", "enrolled_max": 320, "enrolled_scale_max": 352, "waitlisted_percent_max": 1.1, "section_name": "GARCIA, D D - 001", "enrolled_percent_max": 1.1, "telebears": {"phase1_end_date": 19, "phase1_start_day": 1, "phase2_end_date": 84, "phase2_start_day": 23, "phase1_start_date": "10/21/2013-00:00:00", "adj_start_day": 85, "phase2_start_date": "11/12/2013-00:00:00", "adj_start_date": "01/13/2014-00:00:00"}, "title": "COMPSCI 10"}
+{
+    "course_id": 2315,
+    "data": [
+        {
+            "date": "10/21/2013-00:00:00",
+            "day": 1,
+            "enrolled": 0,
+            "enrolled_percent": 0.0,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/22/2013-00:00:00",
+            "day": 2,
+            "enrolled": 0,
+            "enrolled_percent": 0.0,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/23/2013-00:00:00",
+            "day": 3,
+            "enrolled": 8,
+            "enrolled_percent": 0.025,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/24/2013-00:00:00",
+            "day": 4,
+            "enrolled": 22,
+            "enrolled_percent": 0.069,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/25/2013-00:00:00",
+            "day": 5,
+            "enrolled": 23,
+            "enrolled_percent": 0.072,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/26/2013-00:00:00",
+            "day": 6,
+            "enrolled": 23,
+            "enrolled_percent": 0.072,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/27/2013-00:00:00",
+            "day": 7,
+            "enrolled": 26,
+            "enrolled_percent": 0.081,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/28/2013-00:00:00",
+            "day": 8,
+            "enrolled": 27,
+            "enrolled_percent": 0.084,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/29/2013-00:00:00",
+            "day": 9,
+            "enrolled": 30,
+            "enrolled_percent": 0.094,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/30/2013-00:00:00",
+            "day": 10,
+            "enrolled": 30,
+            "enrolled_percent": 0.094,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "10/31/2013-00:00:00",
+            "day": 11,
+            "enrolled": 30,
+            "enrolled_percent": 0.094,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/01/2013-00:00:00",
+            "day": 12,
+            "enrolled": 39,
+            "enrolled_percent": 0.122,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/02/2013-00:00:00",
+            "day": 13,
+            "enrolled": 39,
+            "enrolled_percent": 0.122,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/03/2013-00:00:00",
+            "day": 14,
+            "enrolled": 43,
+            "enrolled_percent": 0.134,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/04/2013-00:00:00",
+            "day": 15,
+            "enrolled": 45,
+            "enrolled_percent": 0.141,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/05/2013-00:00:00",
+            "day": 16,
+            "enrolled": 67,
+            "enrolled_percent": 0.209,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/06/2013-00:00:00",
+            "day": 17,
+            "enrolled": 80,
+            "enrolled_percent": 0.25,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/07/2013-00:00:00",
+            "day": 18,
+            "enrolled": 80,
+            "enrolled_percent": 0.25,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/08/2013-00:00:00",
+            "day": 19,
+            "enrolled": 95,
+            "enrolled_percent": 0.297,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/09/2013-00:00:00",
+            "day": 20,
+            "enrolled": 95,
+            "enrolled_percent": 0.297,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/10/2013-00:00:00",
+            "day": 21,
+            "enrolled": 96,
+            "enrolled_percent": 0.3,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/11/2013-00:00:00",
+            "day": 22,
+            "enrolled": 96,
+            "enrolled_percent": 0.3,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/12/2013-00:00:00",
+            "day": 23,
+            "enrolled": 95,
+            "enrolled_percent": 0.297,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/13/2013-00:00:00",
+            "day": 24,
+            "enrolled": 100,
+            "enrolled_percent": 0.313,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/14/2013-00:00:00",
+            "day": 25,
+            "enrolled": 100,
+            "enrolled_percent": 0.313,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/15/2013-00:00:00",
+            "day": 26,
+            "enrolled": 104,
+            "enrolled_percent": 0.325,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/17/2013-00:00:00",
+            "day": 28,
+            "enrolled": 111,
+            "enrolled_percent": 0.347,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/18/2013-00:00:00",
+            "day": 29,
+            "enrolled": 115,
+            "enrolled_percent": 0.359,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/19/2013-00:00:00",
+            "day": 30,
+            "enrolled": 126,
+            "enrolled_percent": 0.394,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/20/2013-00:00:00",
+            "day": 31,
+            "enrolled": 141,
+            "enrolled_percent": 0.441,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/21/2013-00:00:00",
+            "day": 32,
+            "enrolled": 161,
+            "enrolled_percent": 0.503,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/22/2013-00:00:00",
+            "day": 33,
+            "enrolled": 165,
+            "enrolled_percent": 0.516,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/23/2013-00:00:00",
+            "day": 34,
+            "enrolled": 165,
+            "enrolled_percent": 0.516,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/24/2013-00:00:00",
+            "day": 35,
+            "enrolled": 166,
+            "enrolled_percent": 0.519,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/25/2013-00:00:00",
+            "day": 36,
+            "enrolled": 169,
+            "enrolled_percent": 0.528,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/26/2013-00:00:00",
+            "day": 37,
+            "enrolled": 179,
+            "enrolled_percent": 0.559,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/27/2013-00:00:00",
+            "day": 38,
+            "enrolled": 195,
+            "enrolled_percent": 0.609,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/28/2013-00:00:00",
+            "day": 39,
+            "enrolled": 206,
+            "enrolled_percent": 0.644,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/29/2013-00:00:00",
+            "day": 40,
+            "enrolled": 210,
+            "enrolled_percent": 0.656,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "11/30/2013-00:00:00",
+            "day": 41,
+            "enrolled": 210,
+            "enrolled_percent": 0.656,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/01/2013-00:00:00",
+            "day": 42,
+            "enrolled": 211,
+            "enrolled_percent": 0.659,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/02/2013-00:00:00",
+            "day": 43,
+            "enrolled": 215,
+            "enrolled_percent": 0.672,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/03/2013-00:00:00",
+            "day": 44,
+            "enrolled": 228,
+            "enrolled_percent": 0.713,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/04/2013-00:00:00",
+            "day": 45,
+            "enrolled": 256,
+            "enrolled_percent": 0.8,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/05/2013-00:00:00",
+            "day": 46,
+            "enrolled": 290,
+            "enrolled_percent": 0.906,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/06/2013-00:00:00",
+            "day": 47,
+            "enrolled": 292,
+            "enrolled_percent": 0.912,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/07/2013-00:00:00",
+            "day": 48,
+            "enrolled": 292,
+            "enrolled_percent": 0.912,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/08/2013-00:00:00",
+            "day": 49,
+            "enrolled": 295,
+            "enrolled_percent": 0.922,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/09/2013-00:00:00",
+            "day": 50,
+            "enrolled": 294,
+            "enrolled_percent": 0.919,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/10/2013-00:00:00",
+            "day": 51,
+            "enrolled": 299,
+            "enrolled_percent": 0.934,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/11/2013-00:00:00",
+            "day": 52,
+            "enrolled": 301,
+            "enrolled_percent": 0.941,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/12/2013-00:00:00",
+            "day": 53,
+            "enrolled": 302,
+            "enrolled_percent": 0.944,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/13/2013-00:00:00",
+            "day": 54,
+            "enrolled": 303,
+            "enrolled_percent": 0.947,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/14/2013-00:00:00",
+            "day": 55,
+            "enrolled": 303,
+            "enrolled_percent": 0.947,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/15/2013-00:00:00",
+            "day": 56,
+            "enrolled": 302,
+            "enrolled_percent": 0.944,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/16/2013-00:00:00",
+            "day": 57,
+            "enrolled": 300,
+            "enrolled_percent": 0.938,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/17/2013-00:00:00",
+            "day": 58,
+            "enrolled": 299,
+            "enrolled_percent": 0.934,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/18/2013-00:00:00",
+            "day": 59,
+            "enrolled": 300,
+            "enrolled_percent": 0.938,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/19/2013-00:00:00",
+            "day": 60,
+            "enrolled": 299,
+            "enrolled_percent": 0.934,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/20/2013-00:00:00",
+            "day": 61,
+            "enrolled": 300,
+            "enrolled_percent": 0.938,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/21/2013-00:00:00",
+            "day": 62,
+            "enrolled": 300,
+            "enrolled_percent": 0.938,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/22/2013-00:00:00",
+            "day": 63,
+            "enrolled": 298,
+            "enrolled_percent": 0.931,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/23/2013-00:00:00",
+            "day": 64,
+            "enrolled": 297,
+            "enrolled_percent": 0.928,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/24/2013-00:00:00",
+            "day": 65,
+            "enrolled": 297,
+            "enrolled_percent": 0.928,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/25/2013-00:00:00",
+            "day": 66,
+            "enrolled": 298,
+            "enrolled_percent": 0.931,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/26/2013-00:00:00",
+            "day": 67,
+            "enrolled": 301,
+            "enrolled_percent": 0.941,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/27/2013-00:00:00",
+            "day": 68,
+            "enrolled": 301,
+            "enrolled_percent": 0.941,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/28/2013-00:00:00",
+            "day": 69,
+            "enrolled": 301,
+            "enrolled_percent": 0.941,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/29/2013-00:00:00",
+            "day": 70,
+            "enrolled": 302,
+            "enrolled_percent": 0.944,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/30/2013-00:00:00",
+            "day": 71,
+            "enrolled": 306,
+            "enrolled_percent": 0.956,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "12/31/2013-00:00:00",
+            "day": 72,
+            "enrolled": 308,
+            "enrolled_percent": 0.963,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/01/2014-00:00:00",
+            "day": 73,
+            "enrolled": 309,
+            "enrolled_percent": 0.966,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/02/2014-00:00:00",
+            "day": 74,
+            "enrolled": 310,
+            "enrolled_percent": 0.969,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/03/2014-00:00:00",
+            "day": 75,
+            "enrolled": 309,
+            "enrolled_percent": 0.966,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/04/2014-00:00:00",
+            "day": 76,
+            "enrolled": 309,
+            "enrolled_percent": 0.966,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/05/2014-00:00:00",
+            "day": 77,
+            "enrolled": 309,
+            "enrolled_percent": 0.966,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/06/2014-00:00:00",
+            "day": 78,
+            "enrolled": 309,
+            "enrolled_percent": 0.966,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/07/2014-00:00:00",
+            "day": 79,
+            "enrolled": 312,
+            "enrolled_percent": 0.975,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/08/2014-00:00:00",
+            "day": 80,
+            "enrolled": 312,
+            "enrolled_percent": 0.975,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/09/2014-00:00:00",
+            "day": 81,
+            "enrolled": 313,
+            "enrolled_percent": 0.978,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/10/2014-00:00:00",
+            "day": 82,
+            "enrolled": 312,
+            "enrolled_percent": 0.975,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/11/2014-00:00:00",
+            "day": 83,
+            "enrolled": 312,
+            "enrolled_percent": 0.975,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/12/2014-00:00:00",
+            "day": 84,
+            "enrolled": 314,
+            "enrolled_percent": 0.981,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/13/2014-00:00:00",
+            "day": 85,
+            "enrolled": 316,
+            "enrolled_percent": 0.988,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/14/2014-00:00:00",
+            "day": 86,
+            "enrolled": 319,
+            "enrolled_percent": 0.997,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/15/2014-00:00:00",
+            "day": 87,
+            "enrolled": 320,
+            "enrolled_percent": 1.0,
+            "waitlisted": 5,
+            "waitlisted_percent": 0.016
+        },
+        {
+            "date": "01/16/2014-00:00:00",
+            "day": 88,
+            "enrolled": 317,
+            "enrolled_percent": 0.991,
+            "waitlisted": 10,
+            "waitlisted_percent": 0.031
+        },
+        {
+            "date": "01/17/2014-00:00:00",
+            "day": 89,
+            "enrolled": 314,
+            "enrolled_percent": 0.981,
+            "waitlisted": 14,
+            "waitlisted_percent": 0.044
+        },
+        {
+            "date": "01/18/2014-00:00:00",
+            "day": 90,
+            "enrolled": 314,
+            "enrolled_percent": 0.981,
+            "waitlisted": 14,
+            "waitlisted_percent": 0.044
+        },
+        {
+            "date": "01/19/2014-00:00:00",
+            "day": 91,
+            "enrolled": 316,
+            "enrolled_percent": 0.988,
+            "waitlisted": 9,
+            "waitlisted_percent": 0.028
+        },
+        {
+            "date": "01/20/2014-00:00:00",
+            "day": 92,
+            "enrolled": 317,
+            "enrolled_percent": 0.991,
+            "waitlisted": 11,
+            "waitlisted_percent": 0.034
+        },
+        {
+            "date": "01/21/2014-00:00:00",
+            "day": 93,
+            "enrolled": 312,
+            "enrolled_percent": 0.975,
+            "waitlisted": 9,
+            "waitlisted_percent": 0.028
+        },
+        {
+            "date": "01/22/2014-00:00:00",
+            "day": 94,
+            "enrolled": 311,
+            "enrolled_percent": 0.972,
+            "waitlisted": 2,
+            "waitlisted_percent": 0.006
+        },
+        {
+            "date": "01/23/2014-00:00:00",
+            "day": 95,
+            "enrolled": 313,
+            "enrolled_percent": 0.978,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/24/2014-00:00:00",
+            "day": 96,
+            "enrolled": 314,
+            "enrolled_percent": 0.981,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/25/2014-00:00:00",
+            "day": 97,
+            "enrolled": 314,
+            "enrolled_percent": 0.981,
+            "waitlisted": 1,
+            "waitlisted_percent": 0.003
+        },
+        {
+            "date": "01/26/2014-00:00:00",
+            "day": 98,
+            "enrolled": 312,
+            "enrolled_percent": 0.975,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/27/2014-00:00:00",
+            "day": 99,
+            "enrolled": 311,
+            "enrolled_percent": 0.972,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/28/2014-00:00:00",
+            "day": 100,
+            "enrolled": 303,
+            "enrolled_percent": 0.947,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/29/2014-00:00:00",
+            "day": 101,
+            "enrolled": 295,
+            "enrolled_percent": 0.922,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/30/2014-00:00:00",
+            "day": 102,
+            "enrolled": 284,
+            "enrolled_percent": 0.887,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "01/31/2014-00:00:00",
+            "day": 103,
+            "enrolled": 273,
+            "enrolled_percent": 0.853,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/01/2014-00:00:00",
+            "day": 104,
+            "enrolled": 273,
+            "enrolled_percent": 0.853,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/02/2014-00:00:00",
+            "day": 105,
+            "enrolled": 267,
+            "enrolled_percent": 0.834,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/03/2014-00:00:00",
+            "day": 106,
+            "enrolled": 262,
+            "enrolled_percent": 0.819,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/04/2014-00:00:00",
+            "day": 107,
+            "enrolled": 258,
+            "enrolled_percent": 0.806,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/05/2014-00:00:00",
+            "day": 108,
+            "enrolled": 257,
+            "enrolled_percent": 0.803,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/06/2014-00:00:00",
+            "day": 109,
+            "enrolled": 256,
+            "enrolled_percent": 0.8,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/07/2014-00:00:00",
+            "day": 110,
+            "enrolled": 253,
+            "enrolled_percent": 0.791,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/08/2014-00:00:00",
+            "day": 111,
+            "enrolled": 253,
+            "enrolled_percent": 0.791,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/09/2014-00:00:00",
+            "day": 112,
+            "enrolled": 252,
+            "enrolled_percent": 0.787,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/10/2014-00:00:00",
+            "day": 113,
+            "enrolled": 252,
+            "enrolled_percent": 0.787,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/11/2014-00:00:00",
+            "day": 114,
+            "enrolled": 251,
+            "enrolled_percent": 0.784,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/12/2014-00:00:00",
+            "day": 115,
+            "enrolled": 250,
+            "enrolled_percent": 0.781,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/13/2014-00:00:00",
+            "day": 116,
+            "enrolled": 249,
+            "enrolled_percent": 0.778,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/14/2014-00:00:00",
+            "day": 117,
+            "enrolled": 248,
+            "enrolled_percent": 0.775,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/15/2014-00:00:00",
+            "day": 118,
+            "enrolled": 248,
+            "enrolled_percent": 0.775,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/16/2014-00:00:00",
+            "day": 119,
+            "enrolled": 248,
+            "enrolled_percent": 0.775,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/17/2014-00:00:00",
+            "day": 120,
+            "enrolled": 248,
+            "enrolled_percent": 0.775,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/18/2014-00:00:00",
+            "day": 121,
+            "enrolled": 247,
+            "enrolled_percent": 0.772,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/19/2014-00:00:00",
+            "day": 122,
+            "enrolled": 246,
+            "enrolled_percent": 0.769,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/20/2014-00:00:00",
+            "day": 123,
+            "enrolled": 245,
+            "enrolled_percent": 0.766,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/21/2014-00:00:00",
+            "day": 124,
+            "enrolled": 243,
+            "enrolled_percent": 0.759,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/22/2014-00:00:00",
+            "day": 125,
+            "enrolled": 243,
+            "enrolled_percent": 0.759,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/23/2014-00:00:00",
+            "day": 126,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/24/2014-00:00:00",
+            "day": 127,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/25/2014-00:00:00",
+            "day": 128,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/26/2014-00:00:00",
+            "day": 129,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/27/2014-00:00:00",
+            "day": 130,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "02/28/2014-00:00:00",
+            "day": 131,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/01/2014-00:00:00",
+            "day": 132,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/02/2014-00:00:00",
+            "day": 133,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/03/2014-00:00:00",
+            "day": 134,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/04/2014-00:00:00",
+            "day": 135,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/05/2014-00:00:00",
+            "day": 136,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/06/2014-00:00:00",
+            "day": 137,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/07/2014-00:00:00",
+            "day": 138,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/08/2014-00:00:00",
+            "day": 139,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/09/2014-00:00:00",
+            "day": 140,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/10/2014-00:00:00",
+            "day": 141,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/11/2014-00:00:00",
+            "day": 142,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/12/2014-00:00:00",
+            "day": 143,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/13/2014-00:00:00",
+            "day": 144,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/14/2014-00:00:00",
+            "day": 145,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/15/2014-00:00:00",
+            "day": 146,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/16/2014-00:00:00",
+            "day": 147,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        },
+        {
+            "date": "03/17/2014-00:00:00",
+            "day": 148,
+            "enrolled": 239,
+            "enrolled_percent": 0.747,
+            "waitlisted": 0,
+            "waitlisted_percent": 0.0
+        }
+    ],
+    "enrolled_max": 320,
+    "enrolled_percent_max": 1.1,
+    "enrolled_scale_max": 352,
+    "instructor": "GARCIA, D D",
+    "live": true,
+    "section_id": 20364,
+    "section_name": "GARCIA, D D - 001",
+    "subtitle": "The Beauty and Joy of Computing",
+    "telebears": {
+        "adj_start_date": "01/13/2014-00:00:00",
+        "adj_start_day": 85,
+        "phase1_end_date": 19,
+        "phase1_start_date": "10/21/2013-00:00:00",
+        "phase1_start_day": 1,
+        "phase2_end_date": 84,
+        "phase2_start_date": "11/12/2013-00:00:00",
+        "phase2_start_day": 23
+    },
+    "title": "COMPSCI 10",
+    "waitlisted_percent_max": 1.1,
+    "waitlisted_scale_max": 352
+}
